@@ -16,7 +16,7 @@ As a user I can:
 
 MVP
 
-- [ ] A user can log in
+- [ ] STRETCH: A user can log in
 - [ ] Browse services
 - [ ] Favorite/watch a service provider 
 
