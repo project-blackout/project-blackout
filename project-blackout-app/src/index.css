@@ -40,6 +40,7 @@ code {
   align-items: center;
   justify-content: flex-start;
   overflow-y: auto;
+  height: 4.6rem;
 }
 
 .footer{
@@ -48,16 +49,53 @@ position:fixed;
 bottom: 0;
 background-color: black;
 width:100%;
+align-items: flex-start;
+padding: 6px 0px;
 }
 
-button {
-  background-color: black;
-  color: orange;
+.item-image {
+  width: 4rem;
 }
 
-button:hover {
-  background-color: orange;
-  color: black;
+.item-name-container {
+  display: flex;
+  flex-direction: row;
+  /* border: 5px solid red; */
+  margin: 0;
+  margin: 8px 12px;
 }
+
+.item-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* .menu-container {
+
+} */
+
+.description {
+  display: flex;
+  align-items: flex-start;
+  height: 40px;
+  padding-left: 10px;
+}
+
+.discover {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: rgb(207, 144, 25);
+}
+
+.menu-body {
+  overflow-y: auto;
+  height: 70vh;
+}
+
+.menu-container {
+  margin-left: 20px;
+}
+
+
 
 
