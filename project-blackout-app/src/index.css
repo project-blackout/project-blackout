@@ -39,29 +39,25 @@ code {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-
-/* .vertical-menu {
-  width: 80%;
-  height: 30%;
   overflow-y: auto;
-  margin-left:auto;
-  margin-right:auto;
 }
 
-.vertical-menu a {
-  color: black;
-  display: block;
-  padding: 12px;
-  text-decoration: none;
+.footer{
+color:orange;
+position:fixed;
+bottom: 0;
+background-color: black;
+width:100%;
 }
 
-.vertical-menu a:hover {
+button {
+  background-color: black;
+  color: orange;
+}
+
+button:hover {
   background-color: orange;
-  color: white;
+  color: black;
 }
 
-.avi{
-  border-radius: 50%;
 
-} */
