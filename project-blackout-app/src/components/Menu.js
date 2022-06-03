@@ -14,6 +14,7 @@ function Menu() {
             <MenuItem title = "Artists" image="3"/>
             <MenuItem title = "Writers" image="4"/>
             <MenuItem title = "Food" image="5"/>
+            
         </div>
     </div>
   )
