@@ -36,3 +36,14 @@
   color:rgba(254, 181, 45, 0.941);
 }
 
+.item-card {
+  border-radius: 20px;
+  height: 50%;
+  width: 100%;
+  background-image: url("https://media.istockphoto.com/vectors/creative-vector-seamless-pattern-vector-id959551672?k=20&m=959551672&s=612x612&w=0&h=C6tjQ3kOREMmvy7WGMJXs_0N_ek9SnmN8iMJFbb93sU=");
+
+}
+
+h3 {
+  color:grey;
+}
